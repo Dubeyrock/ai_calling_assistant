@@ -28,6 +28,12 @@ An end-to-end, autonomous AI Voice Assistant designed for both web-based interac
 
 ---
 
+
+## FlowChart .
+
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/95deafc6-5c36-4a5f-9c48-6ee105ca5913" />
+
+
 ## 🛠 Prerequisites
 
 - Python 3.10+
