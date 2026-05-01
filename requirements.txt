@@ -1,0 +1,15 @@
+streamlit
+openai
+openai-whisper
+groq
+elevenlabs
+psycopg2-binary
+pymongo
+redis
+python-dotenv
+sounddevice
+numpy
+scipy
+watchdog
+requests
+pygame
